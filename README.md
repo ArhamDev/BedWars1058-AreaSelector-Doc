@@ -1,1 +1,1 @@
-# -BedWars1058-AreaSelector-Doc
+# BedWars1058-AreaSelector-Doc
