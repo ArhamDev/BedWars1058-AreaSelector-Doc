@@ -1,6 +1,6 @@
 # 快速开始
 
-第一步：获取 Token
+## 第一步：获取 Token
 
 {% hint style="success" %}
 如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买插件，可跳过此步骤。
